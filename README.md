@@ -1,13 +1,10 @@
-<!-->
-# GitHub Pages の有効化
+# (開発者向け) GitHub Pages の有効化
 
 * Settings
 * Build and deployment
   * Source : 'Deploy from a branch'
   * Branch : 'main'
   * Folder : '/ (root)'
-
--->
 
 ## Sileoへの追加
 
