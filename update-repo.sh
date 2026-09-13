@@ -37,7 +37,7 @@ if [ -z "$latest_version" ]; then
   exit 1
 fi
 
-dpkg-scanpackages debs /dev/null > Packages
+dpkg-scanpackages -m debs /dev/null > Packages
 bzip2 -9c Packages > Packages.bz2
 
 md5_for() {

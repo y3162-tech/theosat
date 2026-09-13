@@ -14,3 +14,19 @@ Description: A MobileSubstrate tweak.
 Author: Anonymous
 Name: TheosAT
 
+Package: com.yourcompany.theosat
+Version: 2.0.0
+Architecture: iphoneos-arm64
+Maintainer: Anonymous
+Installed-Size: 1724
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/com.yourcompany.theosat_2.0.0_iphoneos-arm64.deb
+Size: 269280
+MD5sum: 498b2f54569a341491e648247a834296
+SHA1: b4769427d280f32bd64401f5633f36961c517117
+SHA256: 9e41229985f2735a500a5d0db514858ccb8eb6388ef8ec316fe5e68d963c1ad6
+Section: Tweaks
+Description: A MobileSubstrate tweak.
+Author: Anonymous
+Name: TheosAT
+
