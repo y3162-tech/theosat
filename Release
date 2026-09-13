@@ -1,15 +1,15 @@
 Origin: TheosAT
 Label: TheosAT
 Suite: stable
-Version: 2.0.0
+Version: 2.0.1
 Codename: theosat
 Architectures: iphoneos-arm64
 Components: main
 Description: TheosAT Sileo repository
-Date: Sun, 13 Sep 2026 06:56:21 +0000
+Date: Sun, 13 Sep 2026 07:56:00 +0000
 MD5Sum:
- e64853cf4847b711e85538014e39b104 968 Packages
- 5d9ecd183ba0ed5c904c0a9526dcde9f 535 Packages.bz2
+ 9f64280b150778b050b5337f9733fd1e 1452 Packages
+ 7ff19763cb1d17ac533098d6089533b8 661 Packages.bz2
 SHA256:
- 59c6bc11dcce9a3c8826e9aaf5c74f941b27665bb44d6488dae9ef9c5c32bd8a 968 Packages
- f4991ce883bb9179d9d5a36ce01417d4ea479e882c6a61e051ecd5fffe3b402d 535 Packages.bz2
+ 3bfc643774048b25d934cda9795d57e3b2af82e60fbc74cb7387dc0274ddf9d3 1452 Packages
+ e722fee0262e9ade60e445f449da105cb28ef3f0330604e268593cfcb5ca3b9b 661 Packages.bz2
